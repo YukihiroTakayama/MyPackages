@@ -5,6 +5,27 @@
 	],
 	"installed_packages":
 	[
-		"FindKeyConflicts"
+		"A File Icon",
+		"Alignment",
+		"All Autocomplete",
+		"BoundKeys",
+		"BracketHighlighter",
+		"Color Highlighter",
+		"ColorPicker",
+		"Diffy",
+		"DocBlockr",
+		"FindKeyConflicts",
+		"Git",
+		"GitGutter",
+		"Github Tools",
+		"Goto-CSS-Declaration",
+		"Local History",
+		"Origami",
+		"RecentActiveFiles",
+		"SideBarEnhancements",
+		"Smart Delete",
+		"SublimeCodeIntel",
+		"SyncedSideBar",
+		"TrailingSpaces"
 	]
 }
