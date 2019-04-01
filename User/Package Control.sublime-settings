@@ -1,0 +1,33 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"Alignment",
+		"All Autocomplete",
+		"BoundKeys",
+		"BracketHighlighter",
+		"Color Highlighter",
+		"ColorPicker",
+		"Diffy",
+		"DocBlockr",
+		"FindKeyConflicts",
+		"Git",
+		"GitGutter",
+		"Github Tools",
+		"Goto-CSS-Declaration",
+		"Local History",
+		"Material Theme",
+		"Origami",
+		"Package Control",
+		"RecentActiveFiles",
+		"SideBarEnhancements",
+		"Smart Delete",
+		"SublimeCodeIntel",
+		"SyncedSideBar",
+		"TrailingSpaces"
+	]
+}
